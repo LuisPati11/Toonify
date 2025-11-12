@@ -1,0 +1,4 @@
+users[3]{id,name,role}:
+1,Alice,admin,extra
+2,Bob
+3,Charlie,user
